@@ -1,0 +1,14 @@
+    .nh {
+        height: 100%;
+        margin: 0;
+        width: 100%;
+        transition: 2s linear;
+    }
+    
+    .bg-skyblue {
+        background-color: skyblue;
+    }
+    
+    .bg-yellow {
+        background-color: yellow;
+    }
